@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -30,7 +30,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="mailto:powderrentals@gmail.com"
+          href="mailto:powderrentalstahoe@gmail.com"
         >
           Contact Us
         </a>
