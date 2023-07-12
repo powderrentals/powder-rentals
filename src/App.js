@@ -23,9 +23,7 @@ function App() {
         </defs>
       </svg> 
         <p>
-          Powder Rentals
-        </p>
-        <p>
+          Powder Rentals<br />
           Incline Village, NV
         </p>
         <a
